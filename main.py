@@ -34,14 +34,14 @@ def complete_task(task_number):
     
     # Remove task
     
-    def delete_task(task_number):
-        try:
-            task = tasks.pop(task_number-1)
-        except IndexError:
-            print("Invalid task number")
-            return
-        save_tasks(tasks)
-        print(f"Deleted task: '{task['task']}'")
+def delete_task(task_number):
+    try:
+        task = tasks.pop(task_number-1)
+    except IndexError:
+        print("Invalid task number")
+        return
+    save_tasks(tasks)
+    print(f"Deleted task: '{task['task']}'")
         
         # Main program loop
 def menu():
