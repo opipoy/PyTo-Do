@@ -1,0 +1,1 @@
+PyTo-Do is a simple yet effective To-do List powered by Python. at the moment, it's CLI but very soon I'll launched the GUI Version. #LetMeCook
