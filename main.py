@@ -1,8 +1,12 @@
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), 'pyto_do'))
+
 from storage_processor import load_tasks, save_tasks
 
 # Load tasks from file
 
-tasks = load_tasks()
+tasks = []
 
 # Add a task
 

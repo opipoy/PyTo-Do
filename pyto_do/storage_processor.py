@@ -17,8 +17,7 @@ def load_tasks():
         return []
     
     # Save the tasks to the file
-    
-    def save_tasks(tasks):
-        with open(TASKS_FILE, "w") as file:
-            json.dump(tasks, file, indent=4) # indent for pretty printing
-             
+def save_tasks(tasks):
+    with open(TASKS_FILE, "w") as file:
+        json.dump(tasks, file, indent=4) # indent for pretty printing
+    print("Tasks saved to file")
