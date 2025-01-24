@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="468"
+   height="60"
+   viewBox="0 0 123.825 15.875"
+   version="1.1"
+   id="svg21"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Py-ToDo Logo .svg"
+   inkscape:export-filename="Py-ToDo Logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4948513"
+     inkscape:cx="422.11556"
+     inkscape:cy="70.2411"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2722" />
+  <defs
+     id="defs18">
+    <rect
+       x="231.18282"
+       y="7.3414931"
+       width="71.725726"
+       height="45.992578"
+       id="rect2726" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6859">
+      <stop
+         style="stop-color:#ffc908;stop-opacity:1;"
+         offset="0"
+         id="stop6855" />
+      <stop
+         style="stop-color:#ffe872;stop-opacity:1;"
+         offset="1"
+         id="stop6857" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6847">
+      <stop
+         style="stop-color:#1161a3;stop-opacity:1;"
+         offset="0"
+         id="stop6843" />
+      <stop
+         style="stop-color:#07233d;stop-opacity:1;"
+         offset="1"
+         id="stop6845" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6071"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1161a3;stop-opacity:1;"
+         offset="0"
+         id="stop6069" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6847"
+       id="linearGradient6853"
+       x1="57.52364"
+       y1="80.451027"
+       x2="172.38129"
+       y2="205.41403"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6859"
+       id="linearGradient6861"
+       x1="80.668503"
+       y1="176.92255"
+       x2="180.60474"
+       y2="107.50829"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g249">
+      <g
+         id="g308"
+         transform="matrix(0.15844696,0,0,0.15844696,84.059898,-11.177825)">
+        <g
+           id="g2722"
+           transform="translate(93.074941)">
+          <g
+             id="g383"
+             transform="matrix(0.5806232,0,0,0.5806232,-106.13788,36.891872)">
+            <path
+               style="mix-blend-mode:normal;fill:none;stroke:url(#linearGradient6853);stroke-width:15.875;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:127, 63.5;stroke-dashoffset:111.125;stroke-opacity:1"
+               id="path258"
+               sodipodi:type="arc"
+               sodipodi:cx="110.28453"
+               sodipodi:cy="144.95523"
+               sodipodi:rx="63.320721"
+               sodipodi:ry="63.386246"
+               sodipodi:start="0.17899296"
+               sodipodi:end="5.2025822"
+               sodipodi:arc-type="arc"
+               d="M 172.59361,156.24044 A 63.320721,63.386246 0 0 1 118.86373,207.75699 63.320721,63.386246 0 0 1 53.289763,172.572 63.320721,63.386246 0 0 1 66.400438,99.26043 63.320721,63.386246 0 0 1 140.0957,89.033228"
+               sodipodi:open="true" />
+            <path
+               style="fill:none;stroke:url(#linearGradient6861);stroke-width:21.1667;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:53.7104;stroke-opacity:1"
+               d="m 95.361807,156.66293 8.095973,10.4384 65.78308,-55.81237"
+               id="path527"
+               sodipodi:nodetypes="ccc" />
+            <rect
+               style="fill:#ffce1a;fill-opacity:1;stroke:#ffcd16;stroke-width:19.8438;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:203;stroke-opacity:1"
+               id="rect6915"
+               width="0.97603136"
+               height="1.5187111"
+               x="-20.480642"
+               y="156.33633"
+               rx="0"
+               ry="0"
+               transform="rotate(-37.586329)" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-weight:900;font-size:82.7516px;font-family:'Bubbble Gum';-inkscape-font-specification:'Bubbble Gum, Heavy';fill:#ffc908;fill-opacity:1;stroke-width:126.225;stroke-linecap:square;stroke-dasharray:none"
+             x="-458.45215"
+             y="145.2959"
+             id="text439"><tspan
+               sodipodi:role="line"
+               id="tspan437"
+               style="fill:#ffc908;fill-opacity:1;stroke-width:126.225;stroke-dasharray:none"
+               x="-458.45215"
+               y="145.2959">  <tspan
+   style="fill:#1161a3;fill-opacity:1"
+   id="tspan3181">Py</tspan>To-Do  </tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(1.6698543,0,0,1.6698543,-530.52389,70.546163)"
+           id="text2724"
+           style="font-weight:900;font-size:12px;font-family:'Bubbble Gum';-inkscape-font-specification:'Bubbble Gum, Heavy';white-space:pre;shape-inside:url(#rect2726);display:inline;fill:#ffc908;fill-opacity:1;stroke-width:41.2951;stroke-linecap:square;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>
